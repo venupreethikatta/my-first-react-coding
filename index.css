@@ -1,0 +1,11 @@
+/* Write your code here. */
+.heading-1 {
+  color: #f8fafc;
+  font-family: "Roboto";
+}
+
+.div-container {
+  background-color: #0f172a;
+  text-align: center;
+  padding: 20px;
+}
